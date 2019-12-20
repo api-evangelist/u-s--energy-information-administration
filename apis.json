@@ -1,0 +1,80 @@
+{
+    "name": "U.S. Energy Information Administration",
+    "description": "The U.S. Energy Information Administration (EIA) collects, analyzes, and disseminates independent and impartial energy information to promote sound policymaking, efficient markets, and public understanding of energy and its interaction with the economy...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/269-u-s--energy-information-administration.jpg",
+    "tags": [
+        "energy",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/u-s--energy-information-administration\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "U.S. Energy Information Administration",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/269-u-s--energy-information-administration.jpg",
+            "humanURL": "http:\/\/www.eia.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/u-s--energy-information-administration-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/api.eia.gov"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/u-s-energy-information-administration"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.eia.gov\/beta\/api\/"
+        },
+        {
+            "type": "Email",
+            "url": "dale.sweetnam@eia.gov"
+        },
+        {
+            "type": "Email",
+            "url": "InfoCtr@eia.gov"
+        },
+        {
+            "type": "Email",
+            "url": "lawrence.stroud@eia.gov"
+        },
+        {
+            "type": "Email",
+            "url": "thomas.broene@eia.gov"
+        },
+        {
+            "type": "Email",
+            "url": "careers@eia.gov"
+        },
+        {
+            "type": "Email",
+            "url": "webmaster@eia.gov"
+        },
+        {
+            "type": "Email",
+            "url": "EIAServiceDesk@eia.gov"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/EIAgov"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.eia.gov"
+        }
+    ]
+}
